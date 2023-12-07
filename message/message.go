@@ -1,4 +1,4 @@
-package constant
+package message
 
 const (
 	MsgBindingError            = "Binding error"
